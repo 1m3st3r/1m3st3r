@@ -1,2 +1,2 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Artsemi</a> 
+<h1 align="center">Hi there, I'm <a href="https://t.me/kingoitto/" target="_blank">Artsemi</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
