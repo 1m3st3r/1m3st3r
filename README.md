@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **artemiusachenok@gmail.com**
 
-- ⚡ Fun fact **I love football**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
